@@ -23,3 +23,4 @@ jobs:
           password: 35MI*b_5kG # FTPのパスワードを設定
           local-dir: ./                         # どのディレクトリのデータをアップロードするか
           server-dir: /atsushi/
+          log-level:  verbose
